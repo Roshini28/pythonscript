@@ -1,4 +1,4 @@
-s1=int(input())
-ls=list(map(int,input().split()))[:s1]
-ls.sort()
-print(ls[-1])
+z=int(input())
+l1=list(map(int,input().split()))
+m2=max(l1)
+print(m2)
